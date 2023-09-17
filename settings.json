@@ -1,0 +1,7 @@
+{
+    "theme": "dark",
+    "template": "green",
+    "first_run": true,
+    "biometrics": "disabled",
+    "emergency_passdel": "disabled"
+}
